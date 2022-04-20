@@ -3,7 +3,6 @@
 - ❎ Desenvolvedor FullStack jr;
 - ❎ Atualmente desenvolvo projetos e faço faculdade de ADS (Analise e Desenvolvimeto de Sistemas);
 - ❎ Todos meus projetos estão em construção.
-- 
 <br><br>
 
 ## 🛠 &nbsp; Tecnologias que domino
