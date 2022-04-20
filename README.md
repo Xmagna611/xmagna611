@@ -16,13 +16,14 @@
 ## ⚙ &nbsp; Github Analytics
 
 <p align="left">
-  <img width="530em" color="green" src="https://github-readme-stats.vercel.app/api?username=xmagna611&show_icons=true&theme=dark" alt="KayoSilva19's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=xmagna611&show_icons=true&theme=dark" alt="KayoSilva19's stats"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmagna611&layout=compact&theme=dark" alt="Xmagna611's most languages"/>
 </p>
 <br><br>
 
-## &nbsp; Social links
+## &nbsp; link
 <p align="center">
+  Click aqui!
   <img src="https://i.picasion.com/pic92/b68ec1a391d2636a3b52390ce5ba5fe7.gif" width="125px">
 </p>
 
