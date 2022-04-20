@@ -8,9 +8,7 @@
 
 ## 🛠 &nbsp; Tecnologias que domino
 <p align="center">
-  ![CSS]
-  
-  <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img aling="center" width="50" alt="HTML" src="https://i.picasion.com/pic92/a578a527cedde16cecff24a5ed8b4a50.gif">
   <img aling="center" width="50"alt="CSS" src="https://i.picasion.com/pic92/bc1dba6dc17f6356b6be0331a20dc3be.gif">
   <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
