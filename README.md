@@ -1,4 +1,4 @@
-<h1><img src="https://i.picasion.com/pic92/49deadf8ef5914044c3f4eab639fe849.gif" width="20px"> Ola, eu sou Magna! </h1>
+<h1><img src="https://i.picasion.com/pic92/49deadf8ef5914044c3f4eab639fe849.gif" width="20px"> Olá! Eu sou o Magna.</h1>
 
 - ❎ Desenvolvedor FullStack jr
 - ❎ Atualmente desenvolvo projetos e faço faculdade de ADS (Analise e Desenvolvimeto de Sistemas)
@@ -24,7 +24,7 @@
 ## &nbsp; link
 <p align="center">
   Click aqui!->
-  <a href="https://github.com/Xmagna611" target="_blank">
+  <a href="https://github.com/Xmagna611">
     <img src="https://i.picasion.com/pic92/b68ec1a391d2636a3b52390ce5ba5fe7.gif" />
   </a>
 </p>
