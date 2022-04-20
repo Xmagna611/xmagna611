@@ -1,9 +1,9 @@
-<h1> Eae! Eu sou Magna! <img src="https://i.picasion.com/pic92/49deadf8ef5914044c3f4eab639fe849.gif" width="30px"></h1>
+<h1> Ola, eu sou Magna! <img src="https://i.picasion.com/pic92/49deadf8ef5914044c3f4eab639fe849.gif" width="30px"></h1>
 
-- 🔥 Desenvolvedor FullStack jr
-- 🔭 Atualmente desenvolvo projetos e faço faculdade de ADS (Analise e Desenvolvimeto de Sistemas)
-- 👨‍💻 Todos meus projetos estão em construção
-- ▶ [Link do portifolio]
+- ❎ Desenvolvedor FullStack jr
+- ❎ Atualmente desenvolvo projetos e faço faculdade de ADS (Analise e Desenvolvimeto de Sistemas)
+- ❎ Todos meus projetos estão em construção
+- ❎ [Link do portifolio]
 <br><br>
 
 ## 🛠 &nbsp; Tecnologias que domino
