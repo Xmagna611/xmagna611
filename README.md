@@ -24,8 +24,9 @@
 ## &nbsp; link
 <p align="center">
   Click aqui!->
-  
- |![https://github.com/Xmagna611](https://i.picasion.com/pic92/b68ec1a391d2636a3b52390ce5ba5fe7.gif)|
+  <a href="https://github.com/Xmagna611">
+    <img src="https://i.picasion.com/pic92/b68ec1a391d2636a3b52390ce5ba5fe7.gif" />
+  </a>
 </p>
 
 
