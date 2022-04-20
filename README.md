@@ -24,7 +24,7 @@
 ## &nbsp; link
 <p align="center">
   Click aqui!->
-  <a href="https://github.com/Xmagna611">
+  <a href="https://github.com/Xmagna611" targget="_blank">
     <img src="https://i.picasion.com/pic92/b68ec1a391d2636a3b52390ce5ba5fe7.gif" />
   </a>
 </p>
