@@ -23,10 +23,7 @@
 
 ## &nbsp; Social links
 <p align="center">
-  
-  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  
-  ![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  <img src="https://i.picasion.com/pic92/b68ec1a391d2636a3b52390ce5ba5fe7.gif" width="120px">
 </p>
 
 
