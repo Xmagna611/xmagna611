@@ -16,7 +16,7 @@
 ## ⚙ &nbsp; Github Analytics
 
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=xmagna611&show_icons=true&theme=onedark" alt="KayoSilva19's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=xmagna611&show_icons=true&theme=synthwave" alt="KayoSilva19's stats"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmagna611&layout=compact&theme=tokyonight" alt="Xmagna611's most languages"/>
 </p>
 <br><br>
