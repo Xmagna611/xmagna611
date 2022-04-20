@@ -1,4 +1,4 @@
-<h1> EAE! Eu sou Magna! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Eae! Eu sou Magna! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔥 Desenvolvedor FullStack jr
 - 🔭 Atualmente desenvolvo projetos e faço faculdade de ADS (Analise e Desenvolvimeto de Sistemas)
@@ -18,3 +18,11 @@
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=xmagna611&show_icons=true&theme=radical" alt="KayoSilva19's stats"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmagna611&layout=compact&theme=tokyonight" alt="Xmagna611's most languages"/>
 </p>
+<br><br>
+
+## &nbsp; Social links
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayohenriquesilva/) 
+/* link */
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayohenriquesilva/) 
+/* link */
