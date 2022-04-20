@@ -7,7 +7,7 @@
 <br><br>
 
 ## 🛠 &nbsp; Tecnologias que domino
-<p align="center" right="50px">
+<p align="left">
   <img aling="center" width="100" alt="HTML" src="https://i.picasion.com/pic92/a578a527cedde16cecff24a5ed8b4a50.gif">
   <img aling="center" width="100" alt="CSS" src="https://i.picasion.com/pic92/bc1dba6dc17f6356b6be0331a20dc3be.gif">
   <img aling="center" width="100" alt="JS" src="https://i.picasion.com/pic92/80701bcb0a2eddc54b80aefc0c00017a.gif">
