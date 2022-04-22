@@ -14,11 +14,17 @@
 
 ## ⚙ &nbsp; Github Analytics
 
-<p align="left">
+
+<div align=left>
+ <p>
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=xmagna611&show_icons=true&theme=dark" alt="Status"/>
-  <br>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmagna611&layout=compact&theme=dark" alt="As linguagens mais usadas."/>
-</p>
+ </p>
+  
+  <p>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmagna611&layout=compact&theme=dark" alt="As linguagens mais usadas."/>
+  </p>
+<div>
+
 
 
 ## &nbsp; Loading... 💀
