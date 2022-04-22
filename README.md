@@ -1,6 +1,6 @@
 <h1><img src="https://i.picasion.com/pic92/49deadf8ef5914044c3f4eab639fe849.gif" width="20px"> Olá! Eu sou o <img src="https://i.picasion.com/pic92/de400dd48ca33e8520796d12580234b1.gif" width="15px">Magna.</h1>
 
-- ❎ Iniciante no mundo dos desenvolvedore - FullStack jr;
+- ❎ Iniciando no mundo dos desenvolvedore - FullStack jr;
 - ❎ Atualmente desenvolvo projetos pessoais
 - ❎ Todos meus projetos estão em construção.
 <br><br>
