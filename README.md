@@ -15,7 +15,7 @@
 ## ⚙ &nbsp; Github Analytics
 
 
-<div display="flex" align="row">
+<div>
  <p>
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=xmagna611&show_icons=true&theme=dark" alt="Status"/>
  </p>
