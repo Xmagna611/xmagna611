@@ -9,12 +9,10 @@
 <p align="left">
   <img width="75" alt="HTML" src="https://i.picasion.com/pic92/a578a527cedde16cecff24a5ed8b4a50.gif">
   <img width="75" alt="CSS" src="https://i.picasion.com/pic92/bc1dba6dc17f6356b6be0331a20dc3be.gif">
- <!-- <img aling="center" width="100" alt="JS" src="https://i.picasion.com/pic92/80701bcb0a2eddc54b80aefc0c00017a.gif"> -->
+  <!-- <img aling="center" width="75" alt="JS" src="https://i.picasion.com/pic92/80701bcb0a2eddc54b80aefc0c00017a.gif"> -->
 </p>
 
 ## ⚙ &nbsp; Github Analytics
-
-
 <div>
  <p>
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=xmagna611&show_icons=true&theme=dark" alt="Status"/>
@@ -24,8 +22,6 @@
     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmagna611&layout=compact&theme=dark" alt="As linguagens mais usadas."/>
   </p>
 <div>
-
-
 
 ## &nbsp; Loading... 💀
 <p align="center">
