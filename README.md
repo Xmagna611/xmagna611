@@ -32,6 +32,6 @@
 
 ## &nbsp; Comits....🐉
   
-  ![Snake animation](https://github.com/xmagna611/xmagna611/blob/github/-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/xmagna611/xmagna611/blob/output/github-contribution-grid-snake.svg)
   
 
