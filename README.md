@@ -30,4 +30,8 @@
   </a>
 </p>
 
+## &nbsp; Comits....🐉
+  
+  ![Snake animation](https://github.com/xmagna611/xmagna611/blob/github/-contribution-grid-snake.svg)
+  
 
