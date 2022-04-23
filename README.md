@@ -30,7 +30,7 @@
   </a>
 </p>
 
-## &nbsp; Commit 🐉
+## &nbsp; Commits 🐉
   
   ![Snake animation](https://github.com/xmagna611/xmagna611/blob/output/github-contribution-grid-snake.svg)
   
