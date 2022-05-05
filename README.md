@@ -2,7 +2,7 @@
 
 - ❎ Iniciando no mundo dos desenvolvedore;
 - ❎ Atualmente desenvolvo projetos pessoais;
-- ❎ Todos meus projetos estão em construção.
+
 <br><br>
 
 ## 🛠 &nbsp; Tecnologias que domino
